@@ -6,5 +6,3 @@ for x in range(N+1):
 
 for res in myList:
     print(res)
-
-    #Olá! Isso é somente um teste!
