@@ -1,0 +1,1 @@
+SELECT name, street FROM customers where city LIKE 'Por%gre'
